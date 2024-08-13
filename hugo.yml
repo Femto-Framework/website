@@ -1,6 +1,6 @@
-baseURL: "https://guayavita.dev/"
+baseURL: "https://femto.jmpeax.com/"
 #languageCode: "en-us"
-title: "Guayavita Programing Language"
+title: "Femto Java framework"
 theme: hugo-book
 markup:
   goldmark:
@@ -15,4 +15,4 @@ languages:
     weight: 1
 params:
   BookTheme: "auto"
-  BookRepo: https://github.com/Guayavita/docs
+  BookRepo: https://github.com/Femto-Framework/website
